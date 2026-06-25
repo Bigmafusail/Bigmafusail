@@ -1,9 +1,8 @@
-<h1 align="center">Привет 👋, я [Твое Имя]</h1>
-<h3 align="center">[Твоя профессия, например: Backend-разработчик] из [Город, Страна]</h3>
+<h1 align="center">Привет 👋, я Дмитрий Рудов</h1>
+<h3 align="center">Senior QA Automation Engineer | Python | Строю устойчивые процессы тестирования с нуля</h3>
 
-<!-- Анимированная "печатающая" строка (опционально, но выглядит круто) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Разработчик+на+Python;Люблю+Open+Source;Всегда+учусь+новому" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer+Middle%2F%2BSenior;Python+%7C+Pytest+%7C+Playwright+%7C+Docker;Снижаю+время+регресса+с+16+до+6+часов;Повышаю+стабильность+сборок+до+97%25" alt="Typing SVG" />
 </p>
 
 ---
