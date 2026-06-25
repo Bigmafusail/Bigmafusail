@@ -23,48 +23,42 @@ class DmitryRudov:
 
 ### 🛠️ Мой стек
 
-#### Язык и фреймворки
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="45" height="45" />
-</p>
+**Язык и фреймворки**
 
-#### Тестирование UI
-<p align="left">
-  <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="45" height="45" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-#### Тестирование API и нагрузочное
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/httpx/httpx-original.svg" alt="httpx" width="45" height="45" style="background:#000;border-radius:8px;padding:4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="grpc" width="45" height="45" style="background:#000;border-radius:8px;padding:4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/websocket/websocket-original.svg" alt="websocket" width="45" height="45" style="background:#000;border-radius:8px;padding:4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/locust/locust-original.svg" alt="locust" width="45" height="45" style="background:#000;border-radius:8px;padding:4px;" />
-</p>
+**Тестирование UI**
 
-#### Отчёты и валидация
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="allure" width="45" height="45" style="border-radius:8px;" />
-  <img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/img/logo-white.svg" alt="pydantic" width="45" height="45" style="background:#000;border-radius:8px;padding:4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsonschema/jsonschema-original.svg" alt="json schema" width="45" height="45" style="background:#000;border-radius:8px;padding:4px;" />
-</p>
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-#### Контейнеризация и CI/CD
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45" />
-</p>
+**Тестирование API и нагрузочное**
 
-#### Базы данных и мониторинг
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45" />
-</p>
+![HTTPX](https://img.shields.io/badge/HTTPX-5B2B8C?style=for-the-badge&logo=python&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-FFB100?style=for-the-badge&logo=python&logoColor=black)
+
+**Отчёты и валидация**
+
+![Allure](https://img.shields.io/badge/Allure-1A1A1A?style=for-the-badge&logo=allure&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white)
+![JSON Schema](https://img.shields.io/badge/JSON%20Schema-1A1A1A?style=for-the-badge&logo=json&logoColor=white)
+
+**Контейнеризация и CI/CD**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Базы данных и мониторинг**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
