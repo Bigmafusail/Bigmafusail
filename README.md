@@ -11,18 +11,17 @@ class DmitryRudov:
         self.role = "Senior QA Automation Engineer"
         self.location = "Россия (удалённо)"
         self.experience = "4+ года в автоматизации тестирования"
-        self.main_stack = ["Python", "Pytest", "Playwright", "Docker", "Git"]
+        self.main_stack = ["Python", "Pytest", "Playwright"/"Selenium", "Requests"/"HTTPX", "Locust" ]
         self.mentoring = True
         self.hobby = "Строю процессы тестирования с нуля"
     
     def say_hi(self):
         print("Привет! Помогаю командам сокращать время регрессии, ")
-        print("повышать надёжность релизов и наблюдаемость качества.")
+        print("Повышать надёжность релизов и наблюдаемость качества.")
 ```
 
 - 🔭 **Сейчас:** Инженер по автоматизации в **ГК Finebridge**
 - 🚀 **Результат:** Сократил регресс с **16 до 6 часов**, стабильность **97%**
-- 🌱 **Углубляюсь в:** gRPC, Kafka, Grafana
 - 👨‍🏫 **Менторство:** Онбординг, обучение, ревью кода
 - ⚡ **Факт:** Тестирую не только код, но и процессы
 
@@ -44,16 +43,6 @@ class DmitryRudov:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45" />
 </p>
-
----
-
-### 📈 Ключевые достижения
-
-| Показатель | До | После | Улучшение |
-|------------|----|-------|-----------|
-| ⏱️ Время регресса | 16 ч | **6 ч** | ↓ **62%** |
-| 🎯 Стабильность сборок | 80% | **97%** | ↑ **17%** |
-| 📊 Покрытие критического функционала | 0% | **85%** | ↑ **85%** |
 
 ---
 
@@ -90,13 +79,6 @@ class DmitryRudov:
 - **E2E Testing Framework** — Playwright + Pytest + Page Object Model
 - **CI/CD Pipeline** — GitLab CI (ночные прогоны, триггеры, отчёты)
 - **Метрики качества** — Сбор и визуализация в Grafana
-
----
-
-### 🎓 Образование
-
-- **СГУ им. Н.Г. Чернышевского** (2014) — Микроэлектроника и твердотельная электроника
-- **Skillfactory** (2024) — Тестировщик-автоматизатор на Python (QAP)
 
 ---
 
