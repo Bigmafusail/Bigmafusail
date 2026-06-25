@@ -90,19 +90,6 @@ class DmitryRudov:
 
 ---
 
-### 📊 Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RudovD&show_icons=true&locale=ru&layout=compact&theme=dark" alt="RudovD" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RudovD&show_icons=true&locale=ru&theme=dark" alt="RudovD" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RudovD&label=Просмотров&color=0e75b6&style=flat" alt="RudovD" />
-</p>
-
----
-
 ### 📫 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RudovD)
