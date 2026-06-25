@@ -29,15 +29,43 @@ class DmitryRudov:
 
 ### 🛠️ Мой стек
 
+#### Язык и фреймворки
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="45" height="45" />
+</p>
+
+#### Тестирование UI
+<p align="left">
   <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="45" height="45" />
+</p>
+
+#### Тестирование API и нагрузочное
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/httpx/httpx-original.svg" alt="httpx" width="45" height="45" style="background:#000;border-radius:8px;padding:4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="grpc" width="45" height="45" style="background:#000;border-radius:8px;padding:4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/websocket/websocket-original.svg" alt="websocket" width="45" height="45" style="background:#000;border-radius:8px;padding:4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/locust/locust-original.svg" alt="locust" width="45" height="45" style="background:#000;border-radius:8px;padding:4px;" />
+</p>
+
+#### Отчёты и валидация
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="allure" width="45" height="45" style="border-radius:8px;" />
+  <img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/img/logo-white.svg" alt="pydantic" width="45" height="45" style="background:#000;border-radius:8px;padding:4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsonschema/jsonschema-original.svg" alt="json schema" width="45" height="45" style="background:#000;border-radius:8px;padding:4px;" />
+</p>
+
+#### Контейнеризация и CI/CD
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45" />
+</p>
+
+#### Базы данных и мониторинг
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="45" height="45" />
@@ -46,39 +74,25 @@ class DmitryRudov:
 
 ---
 
-### 💼 Опыт работы
+### 🚀 Мои проекты
 
-**ГК Finebridge** (Май 2025 — н.в.)  
-*Инженер по автоматизированному тестированию*
-- Разработка API и E2E фреймворков
-- Настройка CI/CD в GitLab
-- Менторство и онбординг
+<p align="left">
+  <a href="https://github.com/Bigmafusail/performance-tests">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bigmafusail&repo=performance-tests&theme=dark" alt="Фреймворк нагрузочного тестирования" />
+  </a>
+  <a href="https://github.com/Bigmafusail/autotests-ui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bigmafusail&repo=autotests-ui&theme=dark" alt="Фреймворк UI-тестирования" />
+  </a>
+  <a href="https://github.com/Bigmafusail/autotests-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bigmafusail&repo=autotests-api&theme=dark" alt="Фреймворк API-тестирования" />
+  </a>
+</p>
 
-**ЛАНИТ** (Ноябрь 2024 — Май 2025)  
-*Инженер по автоматизированному тестированию*
-- Автоматизация REST/gRPC/WebSocket
-- UI-тесты Selenium + Page Object Model
-- Jenkins, Allure, TestOps
+**Описание проектов:**
 
-**Стройландия** (Январь 2023 — Ноябрь 2024)  
-*Тестировщик ПО / QA Engineer*
-- Автоматизация интернет-магазина
-- Ручное и регрессионное тестирование
-- Postman, SQL, Jira
-
-**Яндекс Крауд** (Март 2022 — Январь 2023)  
-*Специалист по тестированию*
-- Тестирование мобильных и веб-приложений
-- Написание тест-кейсов и чек-листов
-
----
-
-### 🚀 Проекты
-
-- **API Testing Framework** — Pytest + Requests + Pydantic + JSON Schema + Allure
-- **E2E Testing Framework** — Playwright + Pytest + Page Object Model
-- **CI/CD Pipeline** — GitLab CI (ночные прогоны, триггеры, отчёты)
-- **Метрики качества** — Сбор и визуализация в Grafana
+- **[performance-tests](https://github.com/Bigmafusail/performance-tests)** — Фреймворк для нагрузочного тестирования на **Locust**. Включает работу с HTTP и gRPC, генерацию данных через Faker, использование Pydantic для валидации.
+- **[autotests-ui](https://github.com/Bigmafusail/autotests-ui)** — Фреймворк для автоматизации UI-тестирования на **Playwright + Pytest**. Реализованы Page Object Model, работа с авторизацией, интеграция с Allure и CI/CD (GitHub Actions).
+- **[autotests-api](https://github.com/Bigmafusail/autotests-api)** — Фреймворк для тестирования API на **HTTPX + Pytest**. Покрыты REST, gRPC и WebSocket, используется генерация данных, Pydantic-модели и Allure-отчёты.
 
 ---
 
